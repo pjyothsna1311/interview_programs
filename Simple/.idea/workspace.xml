@@ -42,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test12">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview.Client" />
+  <component name="RunManager" selected="Application.FibUsingRecusion">
+    <configuration name="EvenOddUsingThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview.EvenOddUsingThreads" />
       <module name="Simple" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -57,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employee1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview.Employee1" />
+    <configuration name="FibUsingRecusion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetCracker.FibUsingRecusion" />
+      <module name="Simple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NetCracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview.Point" />
       <module name="Simple" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -71,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveValuesFromHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview.RemoveValuesFromHashMap" />
+    <configuration name="PrintEvenOddUsingThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview.PrintEvenOddUsingThreads" />
       <module name="Simple" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -85,16 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test12" />
-      <module name="Simple" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview.ThreadPrinting" />
+    <configuration name="SwapTwoObjs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview.SwapTwoObjs" />
       <module name="Simple" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -131,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test12" />
-        <item itemvalue="Application.Employee1" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.ThreadPrinting" />
-        <item itemvalue="Application.RemoveValuesFromHashMap" />
+        <item itemvalue="Application.FibUsingRecusion" />
+        <item itemvalue="Application.SwapTwoObjs" />
+        <item itemvalue="Application.EvenOddUsingThreads" />
+        <item itemvalue="Application.PrintEvenOddUsingThreads" />
+        <item itemvalue="Application.Point" />
       </list>
     </recent_temporary>
   </component>

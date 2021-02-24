@@ -16,12 +16,25 @@ public class SwapTwoObjs {
 		Swap(c1,c2);
 		c1.print();
 		c2.print();
+		Swap1(c1,c2);
+		c1.print();
+		c2.print();
+
 
 	}
 	public static void Swap(Car c1,Car c2){
 		 Car temp=c1;
 		 c1=c2;
 		 c2=temp;
+
+	}
+	public static void Swap1(Car c1,Car c2){
+
+		c1.name ="maruti";
+		c2.name ="suzuki";
+		c1.modelNum = 30;
+		c2.modelNum = 20;
+
 	}
 
 }
